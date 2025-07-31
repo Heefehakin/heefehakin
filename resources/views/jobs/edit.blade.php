@@ -53,7 +53,7 @@
                 </div>
             </div>
         </div>
-    </form>
+
 
     <div>
                   <!-- ⬇️ THE FIX IS IN THIS SECTION ⬇️ -->
@@ -77,6 +77,7 @@
                 </div>
                  <!-- ⬆️ END OF THE FIX ⬆️ -->
       </div>
+    </form>
 
 
     <!-- This separate form for the delete button is correct -->
